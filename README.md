@@ -1,5 +1,5 @@
 # Hello-World
-Just checking it out.
+Just checking out how commits and pull requests work.
 
 Now I have done a bit of editing.
 
